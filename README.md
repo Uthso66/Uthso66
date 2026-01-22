@@ -1,85 +1,105 @@
-# Md. Tarikul Islam Uthso 🚀
+# Tarikul Islam Uthso  
+**Software Engineer Specializing in Interactive Systems & Applied AI**
 
-🧠 **Hybrid Software Engineer**  
-🎨 Motion-first frontend • ⚙️ Systems thinking • 🤖 Applied AI • 🛡️ Reliability-driven
-
-I build **interactive systems**, not static pages.  
-UI is treated as a **state machine**, animations are **deterministic**,  
-and data is allowed to have **physical presence** 🌌
-
-🧪 Background in **Samsung R&D (QA)** → edge-case discipline & reliability  
-🧩 Competitive programming → structured thinking under constraints  
-⚡ Currently shipping **Next.js + 3D + AI-powered products**, end-to-end
+A systems-oriented engineer with a background in quality assurance and competitive programming, focused on building deterministic, interactive interfaces and end-to-end AI systems. Combines rigorous testing methodologies with creative technical implementation.
 
 ---
 
-## 🧩 What I Work On
+## 📍 **Professional Profile**
 
-🎬 **Motion-Driven Frontend Systems**  
-Next.js (App Router), TypeScript, GSAP, React Three Fiber, Three.js  
-→ animation lifecycle hygiene, scroll-based systems, interactive 3D UI
+**Frontend Systems & Interactive UI**  
+Architecting motion-driven interfaces using Next.js, TypeScript, and 3D rendering (React Three Fiber). Approach UI as state machines with deterministic animations and scroll-based interaction patterns.
 
-🤖 **End-to-End AI Integration**  
-PyTorch, FastAPI, ML inference pipelines  
-→ not just APIs — real models, reproducible setups
+**Full-Stack AI Integration**  
+Implementing production-ready ML systems using PyTorch and FastAPI. Focus on reproducible inference pipelines beyond API wrappers.
 
-🧠 **Systems & Problem Solving**  
-Algorithms, constraints, performance-aware thinking  
-→ competitive programming as mental training, not resume padding
+**Systems Thinking & Reliability**  
+Background in Samsung R&D QA instilled disciplined testing, edge-case analysis, and reliability-first development practices.
 
----
-
-## 🚀 Flagship Projects
-
-🌌 **Cosmic Coffee Tracker**  
-_A data-driven 3D UI where persistence has physical consequences_  
-Next.js • Supabase • React Three Fiber • GSAP  
-→ Each database row becomes a star in a galaxy  
-→ Deletion triggers synchronized visual destruction + state cleanup 💥
-
-🍸 **Mojito Cocktail Landing Page**  
-_Motion engineering & scroll-based interaction architecture_  
-React • TypeScript • GSAP  
-→ Scroll orchestration, animation timing, lifecycle-safe cleanup
-
-🖼️ **AI Image Captioner**  
-_End-to-end inference system using BLIP_  
-Next.js • FastAPI • PyTorch  
-→ Decoupled frontend + backend with reproducible ML inference
-
-🧪 **CIFAR-10 Classifier**  
-_Transfer learning with ResNet18_  
-PyTorch  
-→ Clean training pipeline, evaluation, reproducibility
+**Performance-Aware Development**  
+Competitive programming experience (850+ problems solved) provides structured problem-solving under constraints.
 
 ---
 
-## 📊 Hard Signals (Not Buzzwords)
+## 🛠 **Technical Expertise**
 
-⚔️ **Codeforces** — Specialist (Max 1478), 850+ problems  
-→ https://codeforces.com/profile/tarikul_uthso  
+**Interactive Frontend**  
+Next.js (App Router), TypeScript, React Three Fiber, Three.js, GSAP, Framer Motion  
+*Specialization: Animation lifecycle management, scroll orchestration, 3D UI systems*
 
-🏆 **Codewars** — 3 kyu, Top ~2% globally  
-→ https://www.codewars.com/users/Uthso66  
+**AI & Backend Systems**  
+PyTorch, FastAPI, Python, Supabase, PostgreSQL  
+*Specialization: ML inference pipelines, training reproducibility, data layer design*
 
-📘 **LeetCode** — 280+ problems solved  
-→ https://leetcode.com/u/user2176YS/  
-
-🏢 **Samsung R&D** — QA Engineer  
-→ Automation, failure analysis, reliability-first mindset
-
----
-
-## 🎯 Current Focus
-
-✨ Advanced animation systems in React  
-🌐 High-fidelity interactive UI  
-🤖 Applied AI products (not demos)  
-🌍 Preparing for **EU / Asia remote engineering roles**
+**Engineering Fundamentals**  
+Algorithms, data structures, performance optimization, testing automation  
+*Approach: Constraint-aware architecture, failure analysis, systematic debugging*
 
 ---
 
-📍 Dhaka, Bangladesh  
-✈️ Open to Remote / Relocation (EU & Asia)
+## 🚀 **Notable Projects**
 
-🔗 LinkedIn: https://www.linkedin.com/in/tarikul-islam-uthso/
+### Cosmic Coffee Tracker  
+**3D Data Visualization System**  
+Next.js · Supabase · React Three Fiber · GSAP  
+- Transforms database records into interactive 3D visualizations  
+- Synchronized state management with visual feedback systems  
+- Real-time data persistence with animated physical consequences  
+
+### AI Image Captioning System  
+**End-to-End ML Application**  
+Next.js · FastAPI · PyTorch · BLIP Model  
+- Decoupled architecture with dedicated inference server  
+- Production-ready training and deployment pipeline  
+- User-upload processing with batch optimization  
+
+### Motion-Engineered Landing Page  
+**Advanced Scroll Interaction System**  
+React · TypeScript · GSAP  
+- Precision-timed animation sequences  
+- Lifecycle-safe cleanup and performance optimization  
+- Cross-browser scroll behavior consistency  
+
+### CIFAR-10 Classification System  
+**Transfer Learning Implementation**  
+PyTorch · ResNet18  
+- Custom training pipeline with evaluation metrics  
+- Reproducible experiment tracking  
+- Model optimization and deployment preparation  
+
+---
+
+## 📊 **Technical Proficiency Indicators**
+
+**Competitive Programming**  
+- Codeforces: Specialist (Max 1478), 850+ problems solved  
+- Codewars: Rank 3 kyu (Top ~2% globally)  
+- LeetCode: 280+ algorithmic problems
+
+**Professional Experience**  
+**Samsung R&D Institute Bangladesh**  
+Quality Assurance Engineer (2023-2024)  
+- Automation testing and failure analysis  
+- Reliability engineering and edge-case identification  
+- Cross-functional collaboration with development teams
+
+---
+
+## 🎯 **Current Focus**
+
+- Advanced animation systems in production React applications
+- High-fidelity interactive interfaces for complex data visualization
+- Applied AI product development beyond experimental demos
+- Exploring engineering opportunities in EU/Asian tech markets
+
+---
+
+## 📍 **Location & Availability**
+
+Based in Dhaka, Bangladesh  
+Open to remote positions and relocation opportunities within EU/Asia time zones
+
+**Professional Links**  
+LinkedIn · GitHub · Portfolio
+
+*Systems engineer with a unique blend of QA discipline, algorithmic thinking, and creative implementation capabilities.*
